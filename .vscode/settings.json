@@ -21,6 +21,7 @@
   "typescript.reportStyleChecksAsWarnings": false,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "typescript.tsdk": "node_modules/typescript/lib",
+  "tailwindCSS.experimental.configFile": "tailwind.config.ts",
   "search.exclude": {
     "android/app/build/**": true,
     "ios/DerivedData/**": true

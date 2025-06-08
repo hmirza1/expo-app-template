@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function ProfileScreen() {
   return (
     <View className="size-full bg-white">
-      <Text className="pt-8 text-center text-2xl font-bold text-black">
+      <Text className="pt-8 text-center text-2xl font-bold text-accent">
         Profile
       </Text>
       {/* <Text
