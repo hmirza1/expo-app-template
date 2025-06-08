@@ -1,8 +1,5 @@
 const colors = {
-  black: '#111',
-  grey: '#ededed',
-  purple: '#7e22ce',
-  white: '#fff',
+  claude: '#FAF9F5',
 };
 
 export type ColorName = keyof typeof colors;

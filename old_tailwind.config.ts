@@ -5,14 +5,6 @@ import type { Config } from 'tailwindcss';
 export default {
   content: ['./src/**/*.{js,ts,tsx}'],
   presets: [nativewindPreset],
-  theme: {
-    extend: {
-      // Add any custom colors here if needed, alongside the default ones
-      // colors: {
-      //   'custom-purple': '#7e22ce',
-      // }
-    },
-  },
 } satisfies Config;
 
 // // @ts-expect-error This file does not have type definitions.

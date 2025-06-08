@@ -3,13 +3,13 @@ import { Text, View } from 'react-native';
 
 export default function ChatsScreen() {
   return (
-    <View className="flex-1 items-center justify-center bg-slate-50">
+    <View className="flex-1 items-center justify-center bg-claude">
       <Text className="mb-4 text-3xl font-bold text-slate-900">
         NativeWind Test
       </Text>
 
       <Link href="/chat/drsyed" push>
-        <Text className="text-2xl font-bold text-destructive underline">
+        <Text className="text-destructive text-2xl font-bold underline">
           Go to Chat
         </Text>
       </Link>
