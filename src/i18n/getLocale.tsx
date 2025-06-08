@@ -4,7 +4,7 @@ import { TranslationDictionary, TranslationTable } from 'fbtee';
 
 const AvailableLanguages = new Map([
   ['en_US', 'English'],
-  ['ja_JP', '日本語 (Japanese)'],
+  // ['ja_JP', '日本語 (Japanese)'],
 ] as const);
 
 type LocaleLoaderFn = (

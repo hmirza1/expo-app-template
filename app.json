@@ -45,7 +45,8 @@
       "bundleIdentifier": "app.nkzw.www",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "appleTeamId": "B248XD7495"
     },
     "android": {
       "adaptiveIcon": {
