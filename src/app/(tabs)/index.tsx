@@ -9,9 +9,7 @@ export default function ChatsScreen() {
       </Text>
 
       <Link href="/chat/drsyed" push>
-        <Text className="text-2xl font-bold text-red-500 underline">
-          Go to Chat
-        </Text>
+        <Text className="text- text-2xl font-bold underline">Go to Chat</Text>
       </Link>
 
       <View className="my-8 h-px w-4/5 bg-gray-300" />
